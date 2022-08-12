@@ -19,7 +19,7 @@
   I am a developer from Manchester, UK 🇬🇧
 
 - 🔭 Currently working as: Junior Software Engineer & Mentor 
-- 🌱 Currently learning: Flutter  
+- 🌱 Currently learning: Flutter & Dart  
 - 📖 Currently reading: Stephen King - IT
 - 🎼 Currently listening: Wet Leg 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-heather-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/heatherburke678/)
@@ -39,3 +39,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" **alt="Postgres" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
 </div>
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeatherEver&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

@@ -16,12 +16,11 @@
 ---
 
 👩‍💻: About me: 
-  I am a developer from Manchester, UK 🇬🇧
+  I am a developer from Blackpool, UK 🇬🇧
 
-- 🔭 Currently working as: Junior Software Engineer & Mentor 
-- 🌱 Currently learning: Flutter & Dart  
-- 📖 Currently reading: Stephen King - IT
-- 🎼 Currently listening: Wet Leg 
+- 🔭 Currently working as: Software Engineer @ DWP Digital
+- 📖 Currently reading: Any Freida McFadden book
+- 🎼 Currently listening: War of the Worlds 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-heather-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/heatherburke678/)
 
 ---
